@@ -1,4 +1,4 @@
-# ami-clean-up
+# AMI Clean Up
 
 Script Bash para identificar e remover AMIs (Amazon Machine Images) não utilizadas na sua conta AWS, incluindo snapshots vinculados.
 
