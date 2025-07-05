@@ -1,0 +1,12 @@
+# Ignore arquivos de sistema e temporários
+.DS_Store
+*.swp
+*.swo
+*.tmp
+*.log
+# Ignore credenciais e arquivos sensíveis
+*.pem
+*.key
+*.env
+# Ignore diretórios comuns de backup
+backup/
